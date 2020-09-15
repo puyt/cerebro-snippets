@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.2.0 (15/09/2020)
+
+- fix app
+- remove disable for a search keyword "snip"
+
 ## v1.1.0 (07/06/2018)
 
 ### Added
